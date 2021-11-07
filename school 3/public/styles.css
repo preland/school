@@ -1,0 +1,14 @@
+button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+
+textarea {
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+}
+.footer{
+  background-color: #2e0000;
+  color: #6b5555;
+}
